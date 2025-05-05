@@ -7,5 +7,5 @@ If you have any inquiries, collaboration proposals, or just want to say hello, y
 
 GitHub: https://github.com/aayush-navsariwala
 LinkedIn: https://www.linkedin.com/in/aayush-navsariwala
-Email: aayush.nava@gmail.com
-Instagram: aayush.nav
+Email: aayush.nav@gmail.com
+
