@@ -1,11 +1,56 @@
-Welcome to the GitHub repository of Aayush Navsariwala! 
+# 👋 Hi, I'm Aayush Navsariwala
 
-This repository serves as a central hub for various projects and contributions made by Aayush Navsariwala in the field of technology, software development, and open-source contributions.
-Here, you'll find a collection of high-quality projects, code snippets, and resources that showcase Aayush's skills, expertise, and commitment to creating innovative solutions.
+🎓 Computer Science Honours student at the University of Johannesburg  
+💻 Full-stack developer with a passion for clean code, scalable systems and practical problem-solving  
 
-If you have any inquiries, collaboration proposals, or just want to say hello, you can reach out to Aayush Navsariwala via the following channels:
+---
 
-GitHub: https://github.com/aayush-navsariwala
-LinkedIn: https://www.linkedin.com/in/aayush-navsariwala
-Email: aayush.nav@gmail.com
+## 🛠️ Tech Stack
 
+### Languages
+- Java (Core, OOP, Multithreading, Collections)
+- C# (.NET, ASP.NET MVC, Web Forms, WPF)
+- Kotlin (Android App Development)
+- JavaScript (Full Stack Web Development)
+- SQL (MySQL, MSSQL, Azure SQL)
+- HTML and CSS (Frontend Development)
+
+### Frameworks & Tools
+- .NET, ASP.NET MVC & Web Forms
+- Android SDK
+- Git & GitHub
+- SDLC Methodologies (Agile, Waterfall)
+
+### IDEs & Platforms
+- Visual Studio / Visual Studio Code  
+- Android Studio  
+- IntelliJ IDEA  
+- NetBeans / Eclipse
+- Microsoft SQL Server Management Studio
+- MySQL Workbench
+
+### UI/UX & Prototyping
+- Figma  
+- Canva  
+
+---
+
+## 🧠 What I Can Build
+
+- 🔧 Full-stack desktop and web applications using Java and C#
+- 📱 Android mobile applications using Kotlin and the Android SDK
+- 🗄️ Database-backed systems with MySQL, SQL Server or Azure SQL
+- 📊 CRUD dashboards and admin panels with ASP.NET MVC
+- 🎨 Clickable UI/UX prototypes and responsive front-end designs
+- 🧪 Clean, testable code with object-oriented principles and best practices
+
+---
+
+## 📫 How to Reach Me
+
+[📧 aayush.nav@gmail.com](mailto:aayush.nav@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/aayush-navsariwala/)
+
+---
+
+_Thanks for visiting my GitHub! I'm always open to collaboration and new opportunities._ 🌱
