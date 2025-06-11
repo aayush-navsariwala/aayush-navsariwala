@@ -37,7 +37,7 @@
 
 ## 🧠 What I Can Build
 
-- 🔧 Full-stack desktop and web applications using Java and C#
+- 🔧 Full-stack desktop and web applications using Java, C# and JavaScript
 - 📱 Android mobile applications using Kotlin and the Android SDK
 - 🗄️ Database-backed systems with MySQL, SQL Server or Azure SQL
 - 📊 CRUD dashboards and admin panels with ASP.NET MVC
